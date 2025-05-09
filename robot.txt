@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://radarbandung-news.github.io/terkini/sitemap.xml
